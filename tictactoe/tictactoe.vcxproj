@@ -78,6 +78,9 @@
   <ItemGroup>
     <ClInclude Include="tictactoe.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="tictactoe.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
